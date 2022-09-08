@@ -1,7 +1,11 @@
-import React from 'react';
+import { TypographyComp } from './components';
 
 const App = () => {
-	return <div>App</div>;
+	return (
+		<div>
+			<TypographyComp />
+		</div>
+	);
 };
 
 export default App;
