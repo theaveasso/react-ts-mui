@@ -1,3 +1,3 @@
+import MuiButton from './button';
 import MuiTypography from './typography';
-
-export { MuiTypography };
+export { MuiTypography, MuiButton };

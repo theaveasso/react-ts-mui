@@ -1,9 +1,10 @@
-import { MuiTypography } from './components';
+import { MuiButton, MuiTypography } from './components';
 
 const App = () => {
 	return (
 		<div>
 			<MuiTypography />
+			<MuiButton />
 		</div>
 	);
 };
