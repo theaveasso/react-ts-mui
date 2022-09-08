@@ -1,9 +1,9 @@
-import { TypographyComp } from './components';
+import { MuiTypography } from './components';
 
 const App = () => {
 	return (
 		<div>
-			<TypographyComp />
+			<MuiTypography />
 		</div>
 	);
 };

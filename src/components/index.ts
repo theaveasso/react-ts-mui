@@ -1,3 +1,3 @@
-import TypographyComp from './typography';
+import MuiTypography from './typography';
 
-export { TypographyComp };
+export { MuiTypography };

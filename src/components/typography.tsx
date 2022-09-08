@@ -1,6 +1,6 @@
 import { Typography } from '@mui/material';
 
-const TypographyComp = () => {
+const MuiTypography = () => {
 	return (
 		<div
 			style={{
@@ -45,4 +45,4 @@ const TypographyComp = () => {
 	);
 };
 
-export default TypographyComp;
+export default MuiTypography;
