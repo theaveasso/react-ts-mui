@@ -1,4 +1,9 @@
-import { MuiButton, MuiTextField, MuiTypography } from './components';
+import {
+	MuiButton,
+	MuiSelect,
+	MuiTextField,
+	MuiTypography,
+} from './components';
 
 const App = () => {
 	return (
@@ -6,6 +11,7 @@ const App = () => {
 			<MuiTypography />
 			<MuiButton />
 			<MuiTextField />
+			<MuiSelect />
 		</div>
 	);
 };
