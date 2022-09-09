@@ -1,5 +1,6 @@
 import {
 	MuiButton,
+	MuiCheckbox,
 	MuiRadioButton,
 	MuiSelect,
 	MuiTextField,
@@ -14,6 +15,7 @@ const App = () => {
 			<MuiTextField />
 			<MuiSelect />
 			<MuiRadioButton />
+			<MuiCheckbox />
 		</div>
 	);
 };
